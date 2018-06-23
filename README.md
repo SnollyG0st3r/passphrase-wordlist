@@ -1,3 +1,9 @@
+<div align="center">
+<h1>Moved to Gitlab!</h1>
+<i>Click the racoon dog to follow...</i></br></br>
+<a href="https://gitlab.com/initstring/passphrase-wordlist"> <img src="gl.png"></a>
+</div>
+
 # Overview
 People think they are getting smarter by using passphrases. Let's prove them wrong!
 
