@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Moved to Gitlab!</h1>
+<h1>Moved To Gitlab - Go There For A Newer Version!</h1>
 <i>Click the racoon dog to follow...</i></br></br>
 <a href="https://gitlab.com/initstring/passphrase-wordlist"> <img src="gl.png"></a>
 </div>
